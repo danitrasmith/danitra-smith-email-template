@@ -1,0 +1,40 @@
+<style>
+
+.drop-shadow {
+box-shadow: 0px 7px 5px #7e7b7b;
+z-index: 999;
+}
+.navback {
+background-color: #d1cbba;
+}-
+.padding-0 {
+padding-right: 0;
+padding-left: 0;
+}
+.btn-compose, .btn-compose:hover, .btn-compose:active, .btn-compose:visited {
+background-color: #c9c1ab !important;
+border:none;
+}
+.btn-reply, .btn-reply:hover, .btn-reply:active, .btn-reply:visited {
+background-color: rgba(216, 210, 209, 0.623) !important;
+color: #817860;
+border-color: #817869 !important;
+}
+.has-search .form-control {
+padding-left: 2.375rem;
+}
+.has-search .form-control-feedback {
+position: absolute;
+z-index: 2;
+display: block;
+width: 2.375rem;
+height: 2.375rem;
+line-height: 2.375rem;
+text-align: center;
+pointer-events: none;
+color: rgb(78, 76, 76);
+}
+
+
+
+</style>
